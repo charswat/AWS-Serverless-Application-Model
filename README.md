@@ -41,4 +41,9 @@ Edicion de js/config.js
 <img width="423" alt="gitacceso" src="https://user-images.githubusercontent.com/72947118/97529669-64a46080-197e-11eb-87db-36256d658dc9.PNG">
 
 Validar su implementación
-
+Crear cuenta en la pagia 
+<img width="510" alt="registro" src="https://user-images.githubusercontent.com/72947118/97530472-36278500-1980-11eb-9f28-f3fb83272bd5.PNG">
+Como coloque mi correo personal llego la notificacion y autenqtiue cirrectamente.
+![codigo](https://user-images.githubusercontent.com/72947118/97530710-b1893680-1980-11eb-91ce-4cc7013c8d5c.jpeg)
+Ahora me logueare.
+<img width="453" alt="registro correcto" src="https://user-images.githubusercontent.com/72947118/97530568-68d17d80-1980-11eb-8fa1-26f3b979c3a6.PNG">
