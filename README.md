@@ -20,4 +20,25 @@ Modificando la linea del titulo  “index.html”  <title>Wild Rydes - Rydes of 
 git:
 <img width="447" alt="gitUpdate" src="https://user-images.githubusercontent.com/72947118/97526933-2c9a1f00-1978-11eb-9090-a1eabd7f2183.PNG">
 resultado:
-<img width="161" alt="cambio titulo" src="https://user-images.githubusercontent.com/72947118/97526982-4176b280-1978-11eb-8c1d-d5321fc9609f.PNG"
+<img width="161" alt="cambio titulo" src="https://user-images.githubusercontent.com/72947118/97526982-4176b280-1978-11eb-8c1d-d5321fc9609f.PNG">
+
+Crear un grupo de usuarios de Amazon Cognito
+1 En servicios buscar cognito
+<img width="730" alt="cognito" src="https://user-images.githubusercontent.com/72947118/97528264-47ba5e00-197b-11eb-8979-0b7684ee8395.PNG">
+2crear un grupo de usuarios llamado WildRydes seleccionando Review Defaults (Revisar valores predeterminados).
+<img width="738" alt="cerando grupoPNG" src="https://user-images.githubusercontent.com/72947118/97528319-6b7da400-197b-11eb-87cd-a16552a69912.PNG">
+<img width="941" alt="grupoUsuariocread" src="https://user-images.githubusercontent.com/72947118/97528283-56a11080-197b-11eb-8b71-ae3d1450913f.PNG">
+
+Añadir una aplicación al grupo de usuarios
+Se crea usuario que tendra acceso  a la aplicación
+<img width="469" alt="grup" src="https://user-images.githubusercontent.com/72947118/97528926-d67baa80-197c-11eb-94d1-76d90c4b85fe.PNG">
+
+<img width="464" alt="clientecreado" src="https://user-images.githubusercontent.com/72947118/97528950-e72c2080-197c-11eb-84f0-d0ca20475e70.PNG">
+
+Actualización sitio web
+Edicion de js/config.js
+<img width="766" alt="edicion" src="https://user-images.githubusercontent.com/72947118/97529733-86054c80-197e-11eb-87f9-20789a899da3.PNG">
+<img width="423" alt="gitacceso" src="https://user-images.githubusercontent.com/72947118/97529669-64a46080-197e-11eb-87db-36256d658dc9.PNG">
+
+Validar su implementación
+
