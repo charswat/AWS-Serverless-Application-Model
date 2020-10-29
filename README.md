@@ -68,4 +68,12 @@ Agregamos una politica insertada llamada DynamoDBWriteAccess
 
 <img width="780" alt="polity1" src="https://user-images.githubusercontent.com/72947118/97535428-a25ab680-1989-11eb-8803-083002b8b17c.PNG">
 
+Crear una función Lambda para administrar las solicitudes
+<img width="866" alt="lambda" src="https://user-images.githubusercontent.com/72947118/97536605-67f21900-198b-11eb-9f89-ce88e0238809.PNG">
+Al parecer el repositorio para tomar el js de base no funciona
+<img width="469" alt="lambda1" src="https://user-images.githubusercontent.com/72947118/97536615-6cb6cd00-198b-11eb-9066-06a56bfde08e.PNG">
 
+Probar implementacion
+Se crea una test y se realiza prueba con codigo por defecto llamado TestRequestEvent 
+
+<img width="874" alt="prueba" src="https://user-images.githubusercontent.com/72947118/97537872-7f320600-198d-11eb-8b43-1a723818e83f.PNG">
