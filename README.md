@@ -47,3 +47,25 @@ Como coloque mi correo personal llego la notificacion y autenqtiue cirrectamente
 ![codigo](https://user-images.githubusercontent.com/72947118/97530710-b1893680-1980-11eb-91ce-4cc7013c8d5c.jpeg)
 Ahora me logueare.
 <img width="453" alt="registro correcto" src="https://user-images.githubusercontent.com/72947118/97530568-68d17d80-1980-11eb-8fa1-26f3b979c3a6.PNG">
+
+Crear una tabla de Amazon DynamoDB llamada Rides y asígnele una clave de partición llamada RideId con el tipo String (Cadena).
+<img width="332" alt="accesodinamo" src="https://user-images.githubusercontent.com/72947118/97532233-df23af00-1983-11eb-97f3-cd1dfa4b8b94.PNG">
+<img width="926" alt="creacion tabla" src="https://user-images.githubusercontent.com/72947118/97532327-1befa600-1984-11eb-8f59-a31c203d24b1.PNG">
+Crear un rol de IAM para su función Lambda
+<img width="899" alt="rolesiam" src="https://user-images.githubusercontent.com/72947118/97534970-e4372d00-1988-11eb-9c63-992244623b72.PNG">
+seleccionamos lambda
+<img width="814" alt="rol3" src="https://user-images.githubusercontent.com/72947118/97535087-147ecb80-1989-11eb-886a-5856bcefb828.PNG">
+Espefificamos el tipo de rol
+<img width="830" alt="rol2" src="https://user-images.githubusercontent.com/72947118/97535015-f749fd00-1988-11eb-831b-74d857fe2250.PNG">
+
+creamos el rol con el nombre WildRydesLambda
+<img width="814" alt="rol3" src="https://user-images.githubusercontent.com/72947118/97535249-590a6700-1989-11eb-83d1-84d09a8af4b6.PNG">
+
+Agregamos una politica insertada llamada DynamoDBWriteAccess 
+<img width="580" alt="polity3" src="https://user-images.githubusercontent.com/72947118/97535403-9a9b1200-1989-11eb-8a77-a5c68bca8948.PNG">
+
+<img width="780" alt="polity2" src="https://user-images.githubusercontent.com/72947118/97535415-9ec72f80-1989-11eb-8d99-66fe25f374f7.PNG">
+
+<img width="780" alt="polity1" src="https://user-images.githubusercontent.com/72947118/97535428-a25ab680-1989-11eb-8803-083002b8b17c.PNG">
+
+
