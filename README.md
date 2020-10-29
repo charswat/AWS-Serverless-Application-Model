@@ -77,3 +77,27 @@ Probar implementacion
 Se crea una test y se realiza prueba con codigo por defecto llamado TestRequestEvent 
 
 <img width="874" alt="prueba" src="https://user-images.githubusercontent.com/72947118/97537872-7f320600-198d-11eb-8b43-1a723818e83f.PNG">
+
+Crear un autorizador de grupos de usuarios de Cognito llamado WildRydes 
+<img width="838" alt="api1" src="https://user-images.githubusercontent.com/72947118/97539875-bc4bc780-1990-11eb-96fd-ec308a1879c6.PNG">
+Se verifica el autorizador
+<img width="353" alt="api2" src="https://user-images.githubusercontent.com/72947118/97539899-c7065c80-1990-11eb-8915-eaecbfbc5647.PNG">
+Se prueba direccionamiento
+<img width="728" alt="api3prueba" src="https://user-images.githubusercontent.com/72947118/97539918-cd94d400-1990-11eb-8035-d2c5c3bd2f52.PNG">
+se prueba autorización, la cual fallo me imagino que por el script anterior
+que falto.
+<img width="728" alt="api3prueba" src="https://user-images.githubusercontent.com/72947118/97540191-46942b80-1991-11eb-8fb6-88ee433348f0.PNG">
+Crear un nuevo recurso y método
+<img width="776" alt="service1" src="https://user-images.githubusercontent.com/72947118/97542429-b657e580-1994-11eb-9aef-0ee7f3b1306e.PNG">
+se habilito el cross
+<img width="794" alt="serviceo" src="https://user-images.githubusercontent.com/72947118/97542439-b952d600-1994-11eb-81df-e1312861d49e.PNG">
+se implemento
+<img width="721" alt="implement1" src="https://user-images.githubusercontent.com/72947118/97542462-bfe14d80-1994-11eb-9f15-5a34a336e4b1.PNG">
+Actualizar la configuración del sitio web, se edita el archivo index.js
+<img width="882" alt="conf" src="https://user-images.githubusercontent.com/72947118/97543077-b99fa100-1995-11eb-8793-956deffc8f43.PNG">
+se sube al repositorio
+<img width="490" alt="conf1" src="https://user-images.githubusercontent.com/72947118/97543082-bb696480-1995-11eb-871d-9aa7853cd709.PNG">
+Validar su implementación la cual el final no funciono en mi caso.
+<img width="490" alt="conf1" src="https://user-images.githubusercontent.com/72947118/97543657-890c3700-1996-11eb-981e-ee0b757b416c.PNG">
+
+Muchas gracias
